@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.nav>button{
+    width: 200px;
+    
+}

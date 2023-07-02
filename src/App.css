@@ -1,0 +1,15 @@
+.App{
+  padding: 20px;
+}
+.Dark{
+  color:#00DFA2;
+  background-color: black;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.White{
+  color:black;
+  background-color: white;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
